@@ -5,6 +5,9 @@ using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
 /**
+ * 
+ * VERSION 0.1
+ * 
     G0 : Rapid linear Move
     G1 : Linear Move 
 
